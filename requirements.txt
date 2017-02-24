@@ -3,7 +3,7 @@
 # http://datastax.github.io/python-driver/installation.html#cython-based-extensions
 futures
 six
--e git+https://github.com/datastax/python-driver.git@cassandra-test#egg=cassandra-driver
+-e git+https://github.com/datastax/python-driver.git@python-3.8.0_cassandra-test_integration#egg=cassandra-driver
 ccm==2.6.0
 cql
 decorator
